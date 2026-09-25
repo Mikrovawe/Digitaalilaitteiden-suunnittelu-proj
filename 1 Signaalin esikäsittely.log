@@ -1,0 +1,18 @@
+LTspice 26.0.2 for Windows
+Circuit: U:\KURSSIT\Digitaalilaitteiden suunnittelu\Projekti\1 Signaalin esikäsittely.net
+Start Time: Fri Sep 25 13:46:10 2026
+solver = Normal
+Maximum thread count: 24
+tnom = 27
+temp = 27
+method = trap
+U:\KURSSIT\Digitaalilaitteiden suunnittelu\Projekti\1 Signaalin esikäsittely.net(14): Missing value, assuming 0V @ DC.
+
+V3 N003 0
+^^^^^^^^^
+Total elapsed time: 0.095 seconds.
+
+Files loaded:
+U:\KURSSIT\Digitaalilaitteiden suunnittelu\Projekti\1 Signaalin esikäsittely.net
+U:\padspwr\LTSpice\nat_semi.lib
+
