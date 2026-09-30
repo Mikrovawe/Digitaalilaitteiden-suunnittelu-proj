@@ -2129,8 +2129,8 @@
 		)
 	)
 	(rectangle
-		(start 220.98 113.03)
-		(end 243.205 138.43)
+		(start 251.46 129.54)
+		(end 273.685 154.94)
 		(stroke
 			(width 0)
 			(type default)
@@ -2141,8 +2141,8 @@
 		(uuid "07d1dfbe-317c-4daf-87de-4cb5f59efce3")
 	)
 	(rectangle
-		(start 173.99 113.03)
-		(end 196.215 138.43)
+		(start 204.47 129.54)
+		(end 226.695 154.94)
 		(stroke
 			(width 0)
 			(type default)
@@ -2153,8 +2153,8 @@
 		(uuid "2fbf16e7-87f6-409e-81a3-a5801635cde9")
 	)
 	(rectangle
-		(start 197.485 113.03)
-		(end 219.71 138.43)
+		(start 227.965 129.54)
+		(end 250.19 154.94)
 		(stroke
 			(width 0)
 			(type default)
@@ -2165,86 +2165,86 @@
 		(uuid "b589b48c-b62c-497b-bf2a-9f1b5032d969")
 	)
 	(junction
-		(at 121.92 83.82)
+		(at 100.33 40.64)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "078340bb-4d64-4410-b3a2-6638a50fe60d")
 	)
 	(junction
-		(at 157.48 88.9)
+		(at 135.89 45.72)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0da0928e-1ab6-4826-bbdb-e43e84b2de68")
 	)
 	(junction
-		(at 156.845 120.65)
+		(at 135.255 77.47)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4c8f17ae-d10b-4faa-af86-ef18b0d0c992")
 	)
 	(junction
-		(at 128.27 120.65)
+		(at 106.68 77.47)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4dbba4eb-45aa-476f-8691-52afa51ef876")
 	)
 	(junction
-		(at 137.795 120.65)
+		(at 116.205 77.47)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "50dd2d5e-a127-41b7-82d7-de50b33f27f8")
 	)
 	(junction
-		(at 125.73 99.06)
+		(at 104.14 55.88)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "719401a6-260f-40fa-b820-65fcba5ddc94")
 	)
 	(junction
-		(at 166.37 67.31)
+		(at 144.78 24.13)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "99a5c915-705a-4364-8b0d-3361cd02533c")
 	)
 	(junction
-		(at 173.99 67.31)
+		(at 152.4 24.13)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bfb3f9ed-83af-4b8b-af5a-018f4560acdc")
 	)
 	(junction
-		(at 156.21 83.82)
+		(at 134.62 40.64)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "eae2f1a6-b662-4a4c-8c21-63498bfbe682")
 	)
 	(no_connect
-		(at 113.03 76.2)
+		(at 91.44 33.02)
 		(uuid "08522cf5-639e-453c-8ea2-4c696488bca5")
 	)
 	(no_connect
-		(at 118.11 109.22)
+		(at 96.52 66.04)
 		(uuid "43aa466b-ddbb-490d-b1ec-d791c98fc88b")
 	)
 	(no_connect
-		(at 170.18 78.74)
+		(at 148.59 35.56)
 		(uuid "c317ed39-8f56-4c74-99fa-fd2a507a62e6")
 	)
 	(no_connect
-		(at 172.72 78.74)
+		(at 151.13 35.56)
 		(uuid "d318bc73-5523-451f-b94d-dc06202d2f06")
 	)
 	(no_connect
-		(at 118.11 111.76)
+		(at 96.52 68.58)
 		(uuid "e05b5228-50ce-4c47-bf5c-819d22f1480a")
 	)
 	(no_connect
-		(at 110.49 76.2)
+		(at 88.9 33.02)
 		(uuid "fd3e8d22-018a-4a3c-ab14-a09e2b19d998")
 	)
 	(wire
 		(pts
-			(xy 128.27 120.65) (xy 128.27 127)
+			(xy 106.68 77.47) (xy 106.68 83.82)
 		)
 		(stroke
 			(width 0)
@@ -2254,7 +2254,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 83.82) (xy 146.05 83.82)
+			(xy 100.33 40.64) (xy 124.46 40.64)
 		)
 		(stroke
 			(width 0)
@@ -2264,7 +2264,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 83.82) (xy 121.92 68.58)
+			(xy 100.33 40.64) (xy 100.33 25.4)
 		)
 		(stroke
 			(width 0)
@@ -2274,7 +2274,7 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 83.82) (xy 162.56 83.82)
+			(xy 134.62 40.64) (xy 140.97 40.64)
 		)
 		(stroke
 			(width 0)
@@ -2284,7 +2284,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 124.46) (xy 106.68 99.06)
+			(xy 85.09 81.28) (xy 85.09 55.88)
 		)
 		(stroke
 			(width 0)
@@ -2294,7 +2294,7 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 86.36) (xy 102.87 86.36)
+			(xy 58.42 43.18) (xy 81.28 43.18)
 		)
 		(stroke
 			(width 0)
@@ -2304,7 +2304,7 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 88.9) (xy 157.48 88.9)
+			(xy 132.08 45.72) (xy 135.89 45.72)
 		)
 		(stroke
 			(width 0)
@@ -2314,7 +2314,7 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 119.38) (xy 123.19 124.46)
+			(xy 101.6 76.2) (xy 101.6 81.28)
 		)
 		(stroke
 			(width 0)
@@ -2324,7 +2324,7 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 67.31) (xy 158.75 67.31)
+			(xy 134.62 24.13) (xy 137.16 24.13)
 		)
 		(stroke
 			(width 0)
@@ -2334,7 +2334,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 88.9) (xy 146.05 88.9)
+			(xy 104.14 45.72) (xy 124.46 45.72)
 		)
 		(stroke
 			(width 0)
@@ -2344,7 +2344,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 99.06) (xy 125.73 99.06)
+			(xy 85.09 55.88) (xy 104.14 55.88)
 		)
 		(stroke
 			(width 0)
@@ -2354,7 +2354,7 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 120.65) (xy 156.845 120.65)
+			(xy 134.62 77.47) (xy 135.255 77.47)
 		)
 		(stroke
 			(width 0)
@@ -2364,7 +2364,7 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 67.31) (xy 185.42 67.31)
+			(xy 160.02 24.13) (xy 163.83 24.13)
 		)
 		(stroke
 			(width 0)
@@ -2374,7 +2374,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 68.58) (xy 99.06 81.28)
+			(xy 77.47 25.4) (xy 77.47 38.1)
 		)
 		(stroke
 			(width 0)
@@ -2384,7 +2384,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 99.06) (xy 125.73 104.14)
+			(xy 104.14 55.88) (xy 104.14 60.96)
 		)
 		(stroke
 			(width 0)
@@ -2394,7 +2394,7 @@
 	)
 	(wire
 		(pts
-			(xy 157.48 88.9) (xy 157.48 91.44)
+			(xy 135.89 45.72) (xy 135.89 48.26)
 		)
 		(stroke
 			(width 0)
@@ -2404,7 +2404,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 86.36) (xy 185.42 86.36)
+			(xy 156.21 43.18) (xy 163.83 43.18)
 		)
 		(stroke
 			(width 0)
@@ -2414,7 +2414,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 68.58) (xy 99.06 68.58)
+			(xy 100.33 25.4) (xy 77.47 25.4)
 		)
 		(stroke
 			(width 0)
@@ -2424,7 +2424,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 81.28) (xy 102.87 81.28)
+			(xy 77.47 38.1) (xy 81.28 38.1)
 		)
 		(stroke
 			(width 0)
@@ -2434,7 +2434,7 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 67.31) (xy 173.99 67.31)
+			(xy 144.78 24.13) (xy 152.4 24.13)
 		)
 		(stroke
 			(width 0)
@@ -2444,7 +2444,7 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 83.82) (xy 156.21 83.82)
+			(xy 132.08 40.64) (xy 134.62 40.64)
 		)
 		(stroke
 			(width 0)
@@ -2454,7 +2454,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 99.06) (xy 125.73 88.9)
+			(xy 104.14 55.88) (xy 104.14 45.72)
 		)
 		(stroke
 			(width 0)
@@ -2464,7 +2464,7 @@
 	)
 	(wire
 		(pts
-			(xy 156.845 120.65) (xy 157.48 120.65)
+			(xy 135.255 77.47) (xy 135.89 77.47)
 		)
 		(stroke
 			(width 0)
@@ -2474,7 +2474,7 @@
 	)
 	(wire
 		(pts
-			(xy 157.48 88.9) (xy 162.56 88.9)
+			(xy 135.89 45.72) (xy 140.97 45.72)
 		)
 		(stroke
 			(width 0)
@@ -2484,7 +2484,7 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 119.38) (xy 128.27 120.65)
+			(xy 106.68 76.2) (xy 106.68 77.47)
 		)
 		(stroke
 			(width 0)
@@ -2494,7 +2494,7 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 83.82) (xy 121.92 83.82)
+			(xy 96.52 40.64) (xy 100.33 40.64)
 		)
 		(stroke
 			(width 0)
@@ -2504,7 +2504,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 86.36) (xy 185.42 67.31)
+			(xy 163.83 43.18) (xy 163.83 24.13)
 		)
 		(stroke
 			(width 0)
@@ -2514,7 +2514,7 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 67.31) (xy 156.21 83.82)
+			(xy 134.62 24.13) (xy 134.62 40.64)
 		)
 		(stroke
 			(width 0)
@@ -2524,7 +2524,7 @@
 	)
 	(wire
 		(pts
-			(xy 157.48 114.3) (xy 157.48 120.65)
+			(xy 135.89 71.12) (xy 135.89 77.47)
 		)
 		(stroke
 			(width 0)
@@ -2534,7 +2534,7 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 120.65) (xy 137.795 120.65)
+			(xy 106.68 77.47) (xy 116.205 77.47)
 		)
 		(stroke
 			(width 0)
@@ -2544,7 +2544,7 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 124.46) (xy 106.68 124.46)
+			(xy 101.6 81.28) (xy 85.09 81.28)
 		)
 		(stroke
 			(width 0)
@@ -2554,7 +2554,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.795 123.825) (xy 137.795 120.65)
+			(xy 116.205 80.645) (xy 116.205 77.47)
 		)
 		(stroke
 			(width 0)
@@ -2564,7 +2564,7 @@
 	)
 	(symbol
 		(lib_id "VAMK_C:100NF_50V_CER")
-		(at 212.09 125.73 90)
+		(at 242.57 142.24 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2574,7 +2574,7 @@
 		(dnp no)
 		(uuid "022f2bf7-9079-4970-8b12-f75c59eea02e")
 		(property "Reference" "C4"
-			(at 215.646 125.73 90)
+			(at 246.126 142.24 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2585,7 +2585,7 @@
 			)
 		)
 		(property "Value" "100NF_50V_CER"
-			(at 207.01 125.73 0)
+			(at 237.49 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2596,7 +2596,7 @@
 			)
 		)
 		(property "Footprint" "VAMK_C:C5_0"
-			(at 209.55 125.73 0)
+			(at 240.03 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2607,7 +2607,7 @@
 			)
 		)
 		(property "Datasheet" "\"\""
-			(at 219.71 125.73 0)
+			(at 250.19 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2618,7 +2618,7 @@
 			)
 		)
 		(property "Description" "Ceramic disc capacitor"
-			(at 212.09 125.73 0)
+			(at 242.57 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2629,7 +2629,7 @@
 			)
 		)
 		(property "Storing Location" " 2.4.4.2"
-			(at 222.25 125.73 0)
+			(at 252.73 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2640,7 +2640,7 @@
 			)
 		)
 		(property "Prototype Name" "100n"
-			(at 224.79 125.73 0)
+			(at 255.27 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2651,7 +2651,7 @@
 			)
 		)
 		(property "Tolerance" " +-10%"
-			(at 227.33 125.73 0)
+			(at 257.81 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2662,7 +2662,7 @@
 			)
 		)
 		(property "Order Number Elfa" "65-736-87"
-			(at 229.87 125.73 0)
+			(at 260.35 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2689,7 +2689,7 @@
 	)
 	(symbol
 		(lib_id "VAMK_C:100NF_50V_CER")
-		(at 201.93 125.73 90)
+		(at 232.41 142.24 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2699,7 +2699,7 @@
 		(dnp no)
 		(uuid "0ef82a7b-75d6-4865-90ed-11ad5d056209")
 		(property "Reference" "C3"
-			(at 205.486 125.73 90)
+			(at 235.966 142.24 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2710,7 +2710,7 @@
 			)
 		)
 		(property "Value" "100NF_50V_CER"
-			(at 196.85 125.73 0)
+			(at 227.33 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2721,7 +2721,7 @@
 			)
 		)
 		(property "Footprint" "VAMK_C:C5_0"
-			(at 199.39 125.73 0)
+			(at 229.87 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2732,7 +2732,7 @@
 			)
 		)
 		(property "Datasheet" "\"\""
-			(at 209.55 125.73 0)
+			(at 240.03 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2743,7 +2743,7 @@
 			)
 		)
 		(property "Description" "Ceramic disc capacitor"
-			(at 201.93 125.73 0)
+			(at 232.41 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2754,7 +2754,7 @@
 			)
 		)
 		(property "Storing Location" " 2.4.4.2"
-			(at 212.09 125.73 0)
+			(at 242.57 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2765,7 +2765,7 @@
 			)
 		)
 		(property "Prototype Name" "100n"
-			(at 214.63 125.73 0)
+			(at 245.11 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2776,7 +2776,7 @@
 			)
 		)
 		(property "Tolerance" " +-10%"
-			(at 217.17 125.73 0)
+			(at 247.65 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2787,7 +2787,7 @@
 			)
 		)
 		(property "Order Number Elfa" "65-736-87"
-			(at 219.71 125.73 0)
+			(at 250.19 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2814,7 +2814,7 @@
 	)
 	(symbol
 		(lib_id "VAMK_R_SMD:47k")
-		(at 177.8 67.31 0)
+		(at 156.21 24.13 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2825,7 +2825,7 @@
 		(fields_autoplaced yes)
 		(uuid "21f3d904-b04b-449d-a401-818eefee8e47")
 		(property "Reference" "R10"
-			(at 177.8 63.5 0)
+			(at 156.21 20.32 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2835,7 +2835,7 @@
 			)
 		)
 		(property "Value" "47k"
-			(at 177.8 69.85 0)
+			(at 156.21 26.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2846,7 +2846,7 @@
 			)
 		)
 		(property "Footprint" "VAMK_R_SMD:1206"
-			(at 177.8 72.39 0)
+			(at 156.21 29.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2857,7 +2857,7 @@
 			)
 		)
 		(property "Datasheet" "\"\""
-			(at 177.8 74.93 0)
+			(at 156.21 31.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2868,7 +2868,7 @@
 			)
 		)
 		(property "Description" "47K/5%/0.125W"
-			(at 177.8 67.31 0)
+			(at 156.21 24.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2879,7 +2879,7 @@
 			)
 		)
 		(property "Storing Location" "EC6,  SMD station"
-			(at 177.8 77.47 0)
+			(at 156.21 34.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2890,7 +2890,7 @@
 			)
 		)
 		(property "Tolerance" " +-5%"
-			(at 177.8 80.01 0)
+			(at 156.21 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2901,7 +2901,7 @@
 			)
 		)
 		(property "Order Number Farnell" "613903"
-			(at 177.8 82.55 0)
+			(at 156.21 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2912,7 +2912,7 @@
 			)
 		)
 		(property "Blank Field" "none"
-			(at 177.8 85.09 0)
+			(at 156.21 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2939,7 +2939,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 218.44 105.41 0)
+		(at 248.92 121.92 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2950,7 +2950,7 @@
 		(fields_autoplaced yes)
 		(uuid "22c5cbbd-f374-4c15-bc75-bbb5fc3ea50e")
 		(property "Reference" "#FLG03"
-			(at 218.44 103.505 0)
+			(at 248.92 120.015 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2961,7 +2961,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 218.44 100.33 0)
+			(at 248.92 116.84 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2971,7 +2971,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 218.44 105.41 0)
+			(at 248.92 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2982,7 +2982,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 218.44 105.41 0)
+			(at 248.92 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2993,7 +2993,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 218.44 105.41 0)
+			(at 248.92 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3017,7 +3017,7 @@
 	)
 	(symbol
 		(lib_id "VAMK_R_SMD:47k")
-		(at 157.48 95.25 90)
+		(at 135.89 52.07 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3028,7 +3028,7 @@
 		(fields_autoplaced yes)
 		(uuid "2ae4c3a9-4f75-4b54-a98a-f79817d1252e")
 		(property "Reference" "R13"
-			(at 153.67 95.25 0)
+			(at 132.08 52.07 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3038,7 +3038,7 @@
 			)
 		)
 		(property "Value" "47k"
-			(at 160.02 95.25 0)
+			(at 138.43 52.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3049,7 +3049,7 @@
 			)
 		)
 		(property "Footprint" "VAMK_R_SMD:1206"
-			(at 162.56 95.25 0)
+			(at 140.97 52.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3060,7 +3060,7 @@
 			)
 		)
 		(property "Datasheet" "\"\""
-			(at 165.1 95.25 0)
+			(at 143.51 52.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3071,7 +3071,7 @@
 			)
 		)
 		(property "Description" "47K/5%/0.125W"
-			(at 157.48 95.25 0)
+			(at 135.89 52.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3082,7 +3082,7 @@
 			)
 		)
 		(property "Storing Location" "EC6,  SMD station"
-			(at 167.64 95.25 0)
+			(at 146.05 52.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3093,7 +3093,7 @@
 			)
 		)
 		(property "Tolerance" " +-5%"
-			(at 170.18 95.25 0)
+			(at 148.59 52.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3104,7 +3104,7 @@
 			)
 		)
 		(property "Order Number Farnell" "613903"
-			(at 172.72 95.25 0)
+			(at 151.13 52.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3115,7 +3115,7 @@
 			)
 		)
 		(property "Blank Field" "none"
-			(at 175.26 95.25 0)
+			(at 153.67 52.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3142,7 +3142,7 @@
 	)
 	(symbol
 		(lib_id "power:+12V")
-		(at 179.07 119.38 0)
+		(at 209.55 135.89 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3153,7 +3153,7 @@
 		(fields_autoplaced yes)
 		(uuid "2f04925e-a09f-4a92-9af5-ee4dbf8db0a1")
 		(property "Reference" "#PWR016"
-			(at 179.07 123.19 0)
+			(at 209.55 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3164,7 +3164,7 @@
 			)
 		)
 		(property "Value" "+12V"
-			(at 179.07 114.3 0)
+			(at 209.55 130.81 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3174,7 +3174,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 179.07 119.38 0)
+			(at 209.55 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3185,7 +3185,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 179.07 119.38 0)
+			(at 209.55 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3196,7 +3196,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 179.07 119.38 0)
+			(at 209.55 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3220,7 +3220,7 @@
 	)
 	(symbol
 		(lib_id "VAMK_C:100NF_50V_CER")
-		(at 236.22 125.73 90)
+		(at 266.7 142.24 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3230,7 +3230,7 @@
 		(dnp no)
 		(uuid "35723621-c81f-4010-8bbb-3fd2bbe05112")
 		(property "Reference" "C6"
-			(at 239.776 125.73 90)
+			(at 270.256 142.24 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3241,7 +3241,7 @@
 			)
 		)
 		(property "Value" "100NF_50V_CER"
-			(at 231.14 125.73 0)
+			(at 261.62 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3252,7 +3252,7 @@
 			)
 		)
 		(property "Footprint" "VAMK_C:C5_0"
-			(at 233.68 125.73 0)
+			(at 264.16 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3263,7 +3263,7 @@
 			)
 		)
 		(property "Datasheet" "\"\""
-			(at 243.84 125.73 0)
+			(at 274.32 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3274,7 +3274,7 @@
 			)
 		)
 		(property "Description" "Ceramic disc capacitor"
-			(at 236.22 125.73 0)
+			(at 266.7 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3285,7 +3285,7 @@
 			)
 		)
 		(property "Storing Location" " 2.4.4.2"
-			(at 246.38 125.73 0)
+			(at 276.86 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3296,7 +3296,7 @@
 			)
 		)
 		(property "Prototype Name" "100n"
-			(at 248.92 125.73 0)
+			(at 279.4 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3307,7 +3307,7 @@
 			)
 		)
 		(property "Tolerance" " +-10%"
-			(at 251.46 125.73 0)
+			(at 281.94 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3318,7 +3318,7 @@
 			)
 		)
 		(property "Order Number Elfa" "65-736-87"
-			(at 254 125.73 0)
+			(at 284.48 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3345,7 +3345,7 @@
 	)
 	(symbol
 		(lib_id "power:-12V")
-		(at 212.09 119.38 0)
+		(at 242.57 135.89 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3356,7 +3356,7 @@
 		(fields_autoplaced yes)
 		(uuid "3d6cd57d-6709-4cb8-be64-9a4d183133a8")
 		(property "Reference" "#PWR019"
-			(at 212.09 123.19 0)
+			(at 242.57 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3367,7 +3367,7 @@
 			)
 		)
 		(property "Value" "-12V"
-			(at 212.09 114.3 0)
+			(at 242.57 130.81 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3377,7 +3377,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 212.09 119.38 0)
+			(at 242.57 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3388,7 +3388,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 212.09 119.38 0)
+			(at 242.57 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3399,7 +3399,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"-12V\""
-			(at 212.09 119.38 0)
+			(at 242.57 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3423,7 +3423,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 69.85 93.98 0)
+		(at 48.26 50.8 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3434,7 +3434,7 @@
 		(fields_autoplaced yes)
 		(uuid "4816c086-5f0a-40e7-824e-42137acca11d")
 		(property "Reference" "#PWR08"
-			(at 69.85 100.33 0)
+			(at 48.26 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3445,7 +3445,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 69.85 99.06 0)
+			(at 48.26 55.88 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3455,7 +3455,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 69.85 93.98 0)
+			(at 48.26 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3466,7 +3466,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 69.85 93.98 0)
+			(at 48.26 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3477,7 +3477,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 69.85 93.98 0)
+			(at 48.26 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3501,7 +3501,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 228.6 105.41 0)
+		(at 259.08 121.92 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3512,7 +3512,7 @@
 		(fields_autoplaced yes)
 		(uuid "481bfd06-725b-49b3-9c8c-913fc9fbfccb")
 		(property "Reference" "#FLG02"
-			(at 228.6 103.505 0)
+			(at 259.08 120.015 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3523,7 +3523,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 228.6 100.33 0)
+			(at 259.08 116.84 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3533,7 +3533,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 228.6 105.41 0)
+			(at 259.08 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3544,7 +3544,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 228.6 105.41 0)
+			(at 259.08 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3555,7 +3555,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 228.6 105.41 0)
+			(at 259.08 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3579,7 +3579,7 @@
 	)
 	(symbol
 		(lib_id "VAMK_IC_SMD:UA741_SO8")
-		(at 125.73 111.76 270)
+		(at 104.14 68.58 270)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -3590,7 +3590,7 @@
 		(dnp no)
 		(uuid "4b58083d-57d8-4f40-9652-c460d6375406")
 		(property "Reference" "U3"
-			(at 124.0789 101.6 90)
+			(at 102.4889 58.42 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3601,7 +3601,7 @@
 			)
 		)
 		(property "Value" "UA741"
-			(at 124.0789 104.14 90)
+			(at 102.4889 60.96 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3612,7 +3612,7 @@
 			)
 		)
 		(property "Footprint" "VAMK_IC_SMD:SO8IC"
-			(at 128.27 91.44 0)
+			(at 106.68 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3623,7 +3623,7 @@
 			)
 		)
 		(property "Datasheet" "\"\""
-			(at 125.73 91.44 0)
+			(at 104.14 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3634,7 +3634,7 @@
 			)
 		)
 		(property "Description" "Op-amp Single, general purporse"
-			(at 125.73 111.76 0)
+			(at 104.14 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3645,7 +3645,7 @@
 			)
 		)
 		(property "Order Number Farnell" "4163618"
-			(at 120.65 91.44 0)
+			(at 99.06 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3656,7 +3656,7 @@
 			)
 		)
 		(property "Blank Field" "none"
-			(at 118.11 91.44 0)
+			(at 96.52 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3667,7 +3667,7 @@
 			)
 		)
 		(property "Order Number Elfa" "73-301-45"
-			(at 115.57 91.44 0)
+			(at 93.98 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3712,7 +3712,7 @@
 	)
 	(symbol
 		(lib_id "VAMK_IC:LM35CZ_TO92")
-		(at 69.85 86.36 0)
+		(at 48.26 43.18 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3723,7 +3723,7 @@
 		(fields_autoplaced yes)
 		(uuid "4d6cf113-6133-4305-ab1f-29d5ab10cfc7")
 		(property "Reference" "LM35CZ1"
-			(at 60.96 86.3599 0)
+			(at 39.37 43.1799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3734,7 +3734,7 @@
 			)
 		)
 		(property "Value" "LM35CZ_TO92"
-			(at 90.17 83.82 0)
+			(at 68.58 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3745,7 +3745,7 @@
 			)
 		)
 		(property "Footprint" "VAMK_IC:TO-92"
-			(at 90.17 86.36 0)
+			(at 68.58 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3756,7 +3756,7 @@
 			)
 		)
 		(property "Datasheet" "\"\""
-			(at 90.17 88.9 0)
+			(at 68.58 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3767,7 +3767,7 @@
 			)
 		)
 		(property "Description" "Analog Thermometer (-40°C to +110°C)"
-			(at 69.85 86.36 0)
+			(at 48.26 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3778,7 +3778,7 @@
 			)
 		)
 		(property "Order Number Elfa" "73-088-10"
-			(at 90.17 91.44 0)
+			(at 68.58 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3808,7 +3808,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 189.23 132.08 0)
+		(at 219.71 148.59 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3819,7 +3819,7 @@
 		(fields_autoplaced yes)
 		(uuid "4de75f7b-2f67-4be4-8c8b-ad23aa8f7e4e")
 		(property "Reference" "#PWR012"
-			(at 189.23 138.43 0)
+			(at 219.71 154.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3830,7 +3830,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 189.23 137.16 0)
+			(at 219.71 153.67 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3840,7 +3840,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 189.23 132.08 0)
+			(at 219.71 148.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3851,7 +3851,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 189.23 132.08 0)
+			(at 219.71 148.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3862,7 +3862,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 189.23 132.08 0)
+			(at 219.71 148.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3886,7 +3886,7 @@
 	)
 	(symbol
 		(lib_id "VAMK_R_SMD:10R")
-		(at 149.86 83.82 0)
+		(at 128.27 40.64 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3897,7 +3897,7 @@
 		(fields_autoplaced yes)
 		(uuid "510eef7b-0d04-442a-ada1-ba615675e361")
 		(property "Reference" "R1"
-			(at 149.86 80.01 0)
+			(at 128.27 36.83 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3907,7 +3907,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 149.86 86.36 0)
+			(at 128.27 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3918,7 +3918,7 @@
 			)
 		)
 		(property "Footprint" "VAMK_R_SMD:1206"
-			(at 149.86 88.9 0)
+			(at 128.27 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3929,7 +3929,7 @@
 			)
 		)
 		(property "Datasheet" "\"\""
-			(at 149.86 91.44 0)
+			(at 128.27 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3940,7 +3940,7 @@
 			)
 		)
 		(property "Description" "10R/5%/0.125W"
-			(at 149.86 83.82 0)
+			(at 128.27 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3951,7 +3951,7 @@
 			)
 		)
 		(property "Storing Location" "EC6,  SMD station"
-			(at 149.86 93.98 0)
+			(at 128.27 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3962,7 +3962,7 @@
 			)
 		)
 		(property "Tolerance" " +-5%"
-			(at 149.86 96.52 0)
+			(at 128.27 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3973,7 +3973,7 @@
 			)
 		)
 		(property "Order Number Elfa" "60-734-23"
-			(at 149.86 99.06 0)
+			(at 128.27 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3984,7 +3984,7 @@
 			)
 		)
 		(property "Order Number Farnell" "613460"
-			(at 149.86 99.06 0)
+			(at 128.27 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3995,7 +3995,7 @@
 			)
 		)
 		(property "Blank Field" "none"
-			(at 149.86 101.6 0)
+			(at 128.27 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4022,7 +4022,7 @@
 	)
 	(symbol
 		(lib_id "VAMK_R_SMD:1.8k")
-		(at 157.48 110.49 90)
+		(at 135.89 67.31 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4033,7 +4033,7 @@
 		(fields_autoplaced yes)
 		(uuid "51bdd0dd-2e12-4d6c-8115-4c04f15b93d3")
 		(property "Reference" "R11"
-			(at 153.67 110.49 0)
+			(at 132.08 67.31 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4043,7 +4043,7 @@
 			)
 		)
 		(property "Value" "1.8k"
-			(at 160.02 110.49 0)
+			(at 138.43 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4054,7 +4054,7 @@
 			)
 		)
 		(property "Footprint" "VAMK_R_SMD:1206"
-			(at 162.56 110.49 0)
+			(at 140.97 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4065,7 +4065,7 @@
 			)
 		)
 		(property "Datasheet" "\"\""
-			(at 165.1 110.49 0)
+			(at 143.51 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4076,7 +4076,7 @@
 			)
 		)
 		(property "Description" "1.8K/5%/0.125W"
-			(at 157.48 110.49 0)
+			(at 135.89 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4087,7 +4087,7 @@
 			)
 		)
 		(property "Storing Location" "EC6,  SMD station"
-			(at 167.64 110.49 0)
+			(at 146.05 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4098,7 +4098,7 @@
 			)
 		)
 		(property "Tolerance" " +-5%"
-			(at 170.18 110.49 0)
+			(at 148.59 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4109,7 +4109,7 @@
 			)
 		)
 		(property "Order Number Farnell" "613733"
-			(at 172.72 110.49 0)
+			(at 151.13 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4120,7 +4120,7 @@
 			)
 		)
 		(property "Blank Field" "none"
-			(at 175.26 110.49 0)
+			(at 153.67 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4147,7 +4147,7 @@
 	)
 	(symbol
 		(lib_id "VAMK_R_SMD:1.2k")
-		(at 157.48 102.87 90)
+		(at 135.89 59.69 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4158,7 +4158,7 @@
 		(fields_autoplaced yes)
 		(uuid "53377a59-d43c-4ea5-9cb4-12feafdc358e")
 		(property "Reference" "R12"
-			(at 153.67 102.87 0)
+			(at 132.08 59.69 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4168,7 +4168,7 @@
 			)
 		)
 		(property "Value" "1.2k"
-			(at 160.02 102.87 0)
+			(at 138.43 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4179,7 +4179,7 @@
 			)
 		)
 		(property "Footprint" "VAMK_R_SMD:1206"
-			(at 162.56 102.87 0)
+			(at 140.97 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4190,7 +4190,7 @@
 			)
 		)
 		(property "Datasheet" "\"\""
-			(at 165.1 102.87 0)
+			(at 143.51 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4201,7 +4201,7 @@
 			)
 		)
 		(property "Description" "1.2K/5%/0.125W"
-			(at 157.48 102.87 0)
+			(at 135.89 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4212,7 +4212,7 @@
 			)
 		)
 		(property "Storing Location" "EC6,  SMD station"
-			(at 167.64 102.87 0)
+			(at 146.05 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4223,7 +4223,7 @@
 			)
 		)
 		(property "Tolerance" " +-5%"
-			(at 170.18 102.87 0)
+			(at 148.59 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4234,7 +4234,7 @@
 			)
 		)
 		(property "Order Number Farnell" "613710"
-			(at 172.72 102.87 0)
+			(at 151.13 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4245,7 +4245,7 @@
 			)
 		)
 		(property "Blank Field" "none"
-			(at 175.26 102.87 0)
+			(at 153.67 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4272,7 +4272,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 212.09 132.08 0)
+		(at 242.57 148.59 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4283,7 +4283,7 @@
 		(fields_autoplaced yes)
 		(uuid "59bfeff0-2c02-4178-bd05-75efc6a0f100")
 		(property "Reference" "#PWR010"
-			(at 212.09 138.43 0)
+			(at 242.57 154.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4294,7 +4294,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 212.09 137.16 0)
+			(at 242.57 153.67 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4304,7 +4304,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 212.09 132.08 0)
+			(at 242.57 148.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4315,7 +4315,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 212.09 132.08 0)
+			(at 242.57 148.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4326,7 +4326,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 212.09 132.08 0)
+			(at 242.57 148.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4350,7 +4350,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 179.07 132.08 0)
+		(at 209.55 148.59 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4361,7 +4361,7 @@
 		(fields_autoplaced yes)
 		(uuid "5e059e30-64ff-449d-bcf9-fa359a2932d2")
 		(property "Reference" "#PWR013"
-			(at 179.07 138.43 0)
+			(at 209.55 154.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4372,7 +4372,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 179.07 137.16 0)
+			(at 209.55 153.67 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4382,7 +4382,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 179.07 132.08 0)
+			(at 209.55 148.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4393,7 +4393,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 179.07 132.08 0)
+			(at 209.55 148.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4404,7 +4404,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 179.07 132.08 0)
+			(at 209.55 148.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4428,7 +4428,7 @@
 	)
 	(symbol
 		(lib_id "VAMK_C:100NF_50V_CER")
-		(at 179.07 125.73 90)
+		(at 209.55 142.24 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4438,7 +4438,7 @@
 		(dnp no)
 		(uuid "6fc5e1b9-f500-4404-ba6a-3c0deeac27e1")
 		(property "Reference" "C1"
-			(at 182.626 125.73 90)
+			(at 213.106 142.24 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4449,7 +4449,7 @@
 			)
 		)
 		(property "Value" "100NF_50V_CER"
-			(at 173.99 125.73 0)
+			(at 204.47 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4460,7 +4460,7 @@
 			)
 		)
 		(property "Footprint" "VAMK_C:C5_0"
-			(at 176.53 125.73 0)
+			(at 207.01 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4471,7 +4471,7 @@
 			)
 		)
 		(property "Datasheet" "\"\""
-			(at 186.69 125.73 0)
+			(at 217.17 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4482,7 +4482,7 @@
 			)
 		)
 		(property "Description" "Ceramic disc capacitor"
-			(at 179.07 125.73 0)
+			(at 209.55 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4493,7 +4493,7 @@
 			)
 		)
 		(property "Storing Location" " 2.4.4.2"
-			(at 189.23 125.73 0)
+			(at 219.71 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4504,7 +4504,7 @@
 			)
 		)
 		(property "Prototype Name" "100n"
-			(at 191.77 125.73 0)
+			(at 222.25 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4515,7 +4515,7 @@
 			)
 		)
 		(property "Tolerance" " +-10%"
-			(at 194.31 125.73 0)
+			(at 224.79 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4526,7 +4526,7 @@
 			)
 		)
 		(property "Order Number Elfa" "65-736-87"
-			(at 196.85 125.73 0)
+			(at 227.33 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4553,7 +4553,7 @@
 	)
 	(symbol
 		(lib_id "VAMK_R_SMD:1.8k")
-		(at 162.56 67.31 0)
+		(at 140.97 24.13 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4564,7 +4564,7 @@
 		(fields_autoplaced yes)
 		(uuid "7646522f-8281-4613-83f2-0bcb0343d6ba")
 		(property "Reference" "R8"
-			(at 162.56 63.5 0)
+			(at 140.97 20.32 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4574,7 +4574,7 @@
 			)
 		)
 		(property "Value" "1.8k"
-			(at 162.56 69.85 0)
+			(at 140.97 26.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4585,7 +4585,7 @@
 			)
 		)
 		(property "Footprint" "VAMK_R_SMD:1206"
-			(at 162.56 72.39 0)
+			(at 140.97 29.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4596,7 +4596,7 @@
 			)
 		)
 		(property "Datasheet" "\"\""
-			(at 162.56 74.93 0)
+			(at 140.97 31.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4607,7 +4607,7 @@
 			)
 		)
 		(property "Description" "1.8K/5%/0.125W"
-			(at 162.56 67.31 0)
+			(at 140.97 24.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4618,7 +4618,7 @@
 			)
 		)
 		(property "Storing Location" "EC6,  SMD station"
-			(at 162.56 77.47 0)
+			(at 140.97 34.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4629,7 +4629,7 @@
 			)
 		)
 		(property "Tolerance" " +-5%"
-			(at 162.56 80.01 0)
+			(at 140.97 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4640,7 +4640,7 @@
 			)
 		)
 		(property "Order Number Farnell" "613733"
-			(at 162.56 82.55 0)
+			(at 140.97 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4651,7 +4651,7 @@
 			)
 		)
 		(property "Blank Field" "none"
-			(at 162.56 85.09 0)
+			(at 140.97 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4678,7 +4678,7 @@
 	)
 	(symbol
 		(lib_id "VAMK_C:100NF_50V_CER")
-		(at 226.06 125.73 90)
+		(at 256.54 142.24 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4688,7 +4688,7 @@
 		(dnp no)
 		(uuid "77d4c412-9787-4da7-afe9-c9721108bdb0")
 		(property "Reference" "C5"
-			(at 229.616 125.73 90)
+			(at 260.096 142.24 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4699,7 +4699,7 @@
 			)
 		)
 		(property "Value" "100NF_50V_CER"
-			(at 220.98 125.73 0)
+			(at 251.46 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4710,7 +4710,7 @@
 			)
 		)
 		(property "Footprint" "VAMK_C:C5_0"
-			(at 223.52 125.73 0)
+			(at 254 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4721,7 +4721,7 @@
 			)
 		)
 		(property "Datasheet" "\"\""
-			(at 233.68 125.73 0)
+			(at 264.16 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4732,7 +4732,7 @@
 			)
 		)
 		(property "Description" "Ceramic disc capacitor"
-			(at 226.06 125.73 0)
+			(at 256.54 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4743,7 +4743,7 @@
 			)
 		)
 		(property "Storing Location" " 2.4.4.2"
-			(at 236.22 125.73 0)
+			(at 266.7 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4754,7 +4754,7 @@
 			)
 		)
 		(property "Prototype Name" "100n"
-			(at 238.76 125.73 0)
+			(at 269.24 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4765,7 +4765,7 @@
 			)
 		)
 		(property "Tolerance" " +-10%"
-			(at 241.3 125.73 0)
+			(at 271.78 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4776,7 +4776,7 @@
 			)
 		)
 		(property "Order Number Elfa" "65-736-87"
-			(at 243.84 125.73 0)
+			(at 274.32 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4803,7 +4803,7 @@
 	)
 	(symbol
 		(lib_id "power:-12V")
-		(at 107.95 76.2 0)
+		(at 86.36 33.02 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4814,7 +4814,7 @@
 		(fields_autoplaced yes)
 		(uuid "78a9c95b-76e4-4e52-9046-e89d706658be")
 		(property "Reference" "#PWR05"
-			(at 107.95 80.01 0)
+			(at 86.36 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4825,7 +4825,7 @@
 			)
 		)
 		(property "Value" "-12V"
-			(at 107.95 71.12 0)
+			(at 86.36 27.94 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4835,7 +4835,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 107.95 76.2 0)
+			(at 86.36 33.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4846,7 +4846,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 107.95 76.2 0)
+			(at 86.36 33.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4857,7 +4857,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"-12V\""
-			(at 107.95 76.2 0)
+			(at 86.36 33.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4881,7 +4881,7 @@
 	)
 	(symbol
 		(lib_id "VAMK_IC_SMD:UA741_SO8")
-		(at 170.18 86.36 0)
+		(at 148.59 43.18 0)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -4892,7 +4892,7 @@
 		(dnp no)
 		(uuid "7ee3a1e2-d0b7-4f39-b2fa-c3c03d614eea")
 		(property "Reference" "U2"
-			(at 180.34 92.7802 0)
+			(at 158.75 49.6002 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4902,7 +4902,7 @@
 			)
 		)
 		(property "Value" "UA741"
-			(at 180.34 90.2402 0)
+			(at 158.75 47.0602 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4912,7 +4912,7 @@
 			)
 		)
 		(property "Footprint" "VAMK_IC_SMD:SO8IC"
-			(at 190.5 88.9 0)
+			(at 168.91 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4923,7 +4923,7 @@
 			)
 		)
 		(property "Datasheet" "\"\""
-			(at 190.5 86.36 0)
+			(at 168.91 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4934,7 +4934,7 @@
 			)
 		)
 		(property "Description" "Op-amp Single, general purporse"
-			(at 170.18 86.36 0)
+			(at 148.59 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4945,7 +4945,7 @@
 			)
 		)
 		(property "Order Number Farnell" "4163618"
-			(at 190.5 81.28 0)
+			(at 168.91 38.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4956,7 +4956,7 @@
 			)
 		)
 		(property "Blank Field" "none"
-			(at 190.5 78.74 0)
+			(at 168.91 35.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4967,7 +4967,7 @@
 			)
 		)
 		(property "Order Number Elfa" "73-301-45"
-			(at 190.5 76.2 0)
+			(at 168.91 33.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5012,7 +5012,7 @@
 	)
 	(symbol
 		(lib_id "power:+12V")
-		(at 228.6 105.41 180)
+		(at 259.08 121.92 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5023,7 +5023,7 @@
 		(fields_autoplaced yes)
 		(uuid "8025dada-f782-4d39-a80f-a1ae2a2ef303")
 		(property "Reference" "#PWR022"
-			(at 228.6 101.6 0)
+			(at 259.08 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5034,7 +5034,7 @@
 			)
 		)
 		(property "Value" "+12V"
-			(at 228.6 110.49 0)
+			(at 259.08 127 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5044,7 +5044,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 228.6 105.41 0)
+			(at 259.08 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5055,7 +5055,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 228.6 105.41 0)
+			(at 259.08 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5066,7 +5066,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 228.6 105.41 0)
+			(at 259.08 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5090,7 +5090,7 @@
 	)
 	(symbol
 		(lib_id "VAMK_C:100NF_50V_CER")
-		(at 189.23 125.73 90)
+		(at 219.71 142.24 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5100,7 +5100,7 @@
 		(dnp no)
 		(uuid "855a9550-1f01-4a4b-ab43-c19d9126e891")
 		(property "Reference" "C2"
-			(at 192.786 125.73 90)
+			(at 223.266 142.24 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5111,7 +5111,7 @@
 			)
 		)
 		(property "Value" "100NF_50V_CER"
-			(at 184.15 125.73 0)
+			(at 214.63 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5122,7 +5122,7 @@
 			)
 		)
 		(property "Footprint" "VAMK_C:C5_0"
-			(at 186.69 125.73 0)
+			(at 217.17 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5133,7 +5133,7 @@
 			)
 		)
 		(property "Datasheet" "\"\""
-			(at 196.85 125.73 0)
+			(at 227.33 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5144,7 +5144,7 @@
 			)
 		)
 		(property "Description" "Ceramic disc capacitor"
-			(at 189.23 125.73 0)
+			(at 219.71 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5155,7 +5155,7 @@
 			)
 		)
 		(property "Storing Location" " 2.4.4.2"
-			(at 199.39 125.73 0)
+			(at 229.87 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5166,7 +5166,7 @@
 			)
 		)
 		(property "Prototype Name" "100n"
-			(at 201.93 125.73 0)
+			(at 232.41 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5177,7 +5177,7 @@
 			)
 		)
 		(property "Tolerance" " +-10%"
-			(at 204.47 125.73 0)
+			(at 234.95 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5188,7 +5188,7 @@
 			)
 		)
 		(property "Order Number Elfa" "65-736-87"
-			(at 207.01 125.73 0)
+			(at 237.49 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5215,7 +5215,7 @@
 	)
 	(symbol
 		(lib_id "VAMK_R_SMD:10R")
-		(at 128.27 130.81 90)
+		(at 106.68 87.63 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5226,7 +5226,7 @@
 		(fields_autoplaced yes)
 		(uuid "8fbfa1c2-7eff-41a0-93c3-75226a71bdaf")
 		(property "Reference" "R7"
-			(at 130.81 130.8099 90)
+			(at 109.22 87.6299 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5237,7 +5237,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 130.81 130.81 0)
+			(at 109.22 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5248,7 +5248,7 @@
 			)
 		)
 		(property "Footprint" "VAMK_R_SMD:1206"
-			(at 133.35 130.81 0)
+			(at 111.76 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5259,7 +5259,7 @@
 			)
 		)
 		(property "Datasheet" "\"\""
-			(at 135.89 130.81 0)
+			(at 114.3 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5270,7 +5270,7 @@
 			)
 		)
 		(property "Description" "10R/5%/0.125W"
-			(at 128.27 130.81 0)
+			(at 106.68 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5281,7 +5281,7 @@
 			)
 		)
 		(property "Storing Location" "EC6,  SMD station"
-			(at 138.43 130.81 0)
+			(at 116.84 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5292,7 +5292,7 @@
 			)
 		)
 		(property "Tolerance" " +-5%"
-			(at 140.97 130.81 0)
+			(at 119.38 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5303,7 +5303,7 @@
 			)
 		)
 		(property "Order Number Elfa" "60-734-23"
-			(at 143.51 130.81 0)
+			(at 121.92 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5314,7 +5314,7 @@
 			)
 		)
 		(property "Order Number Farnell" "613460"
-			(at 143.51 130.81 0)
+			(at 121.92 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5325,7 +5325,7 @@
 			)
 		)
 		(property "Blank Field" "none"
-			(at 146.05 130.81 0)
+			(at 124.46 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5352,7 +5352,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 201.93 132.08 0)
+		(at 232.41 148.59 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5363,7 +5363,7 @@
 		(fields_autoplaced yes)
 		(uuid "91b067db-5d61-4d5c-a45f-7de070f2df6e")
 		(property "Reference" "#PWR011"
-			(at 201.93 138.43 0)
+			(at 232.41 154.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5374,7 +5374,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 201.93 137.16 0)
+			(at 232.41 153.67 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5384,7 +5384,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 201.93 132.08 0)
+			(at 232.41 148.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5395,7 +5395,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 201.93 132.08 0)
+			(at 232.41 148.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5406,7 +5406,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 201.93 132.08 0)
+			(at 232.41 148.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5430,7 +5430,7 @@
 	)
 	(symbol
 		(lib_id "power:-12V")
-		(at 167.64 78.74 0)
+		(at 146.05 35.56 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5441,7 +5441,7 @@
 		(fields_autoplaced yes)
 		(uuid "9a6cab3c-dfee-43f1-91da-2c49d9fd0994")
 		(property "Reference" "#PWR04"
-			(at 167.64 82.55 0)
+			(at 146.05 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5452,7 +5452,7 @@
 			)
 		)
 		(property "Value" "-12V"
-			(at 167.64 73.66 0)
+			(at 146.05 30.48 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5462,7 +5462,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 167.64 78.74 0)
+			(at 146.05 35.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5473,7 +5473,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 167.64 78.74 0)
+			(at 146.05 35.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5484,7 +5484,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"-12V\""
-			(at 167.64 78.74 0)
+			(at 146.05 35.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5508,7 +5508,7 @@
 	)
 	(symbol
 		(lib_id "power:-12V")
-		(at 240.03 105.41 180)
+		(at 270.51 121.92 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5519,7 +5519,7 @@
 		(fields_autoplaced yes)
 		(uuid "9bcfc92d-84ca-402e-8b1f-09e7368b93f5")
 		(property "Reference" "#PWR023"
-			(at 240.03 101.6 0)
+			(at 270.51 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5530,7 +5530,7 @@
 			)
 		)
 		(property "Value" "-12V"
-			(at 240.03 110.49 0)
+			(at 270.51 127 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5540,7 +5540,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 240.03 105.41 0)
+			(at 270.51 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5551,7 +5551,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 240.03 105.41 0)
+			(at 270.51 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5562,7 +5562,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"-12V\""
-			(at 240.03 105.41 0)
+			(at 270.51 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5586,7 +5586,7 @@
 	)
 	(symbol
 		(lib_id "power:-12V")
-		(at 236.22 119.38 0)
+		(at 266.7 135.89 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5597,7 +5597,7 @@
 		(fields_autoplaced yes)
 		(uuid "a5bd5f03-e885-42fc-939b-896537cd560f")
 		(property "Reference" "#PWR015"
-			(at 236.22 123.19 0)
+			(at 266.7 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5608,7 +5608,7 @@
 			)
 		)
 		(property "Value" "-12V"
-			(at 236.22 114.3 0)
+			(at 266.7 130.81 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5618,7 +5618,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 236.22 119.38 0)
+			(at 266.7 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5629,7 +5629,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 236.22 119.38 0)
+			(at 266.7 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5640,7 +5640,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"-12V\""
-			(at 236.22 119.38 0)
+			(at 266.7 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5664,7 +5664,7 @@
 	)
 	(symbol
 		(lib_id "power:+12V")
-		(at 167.64 93.98 180)
+		(at 146.05 50.8 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5675,7 +5675,7 @@
 		(fields_autoplaced yes)
 		(uuid "a5e41895-50e3-4578-b70d-6172c75037b7")
 		(property "Reference" "#PWR03"
-			(at 167.64 90.17 0)
+			(at 146.05 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5686,7 +5686,7 @@
 			)
 		)
 		(property "Value" "+12V"
-			(at 167.64 99.06 0)
+			(at 146.05 55.88 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5696,7 +5696,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 167.64 93.98 0)
+			(at 146.05 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5707,7 +5707,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 167.64 93.98 0)
+			(at 146.05 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5718,7 +5718,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 167.64 93.98 0)
+			(at 146.05 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5742,7 +5742,7 @@
 	)
 	(symbol
 		(lib_id "power:+12V")
-		(at 128.27 134.62 180)
+		(at 106.68 91.44 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5753,7 +5753,7 @@
 		(fields_autoplaced yes)
 		(uuid "ae5df1f1-5395-4358-94dc-c91fa2611f86")
 		(property "Reference" "#PWR07"
-			(at 128.27 130.81 0)
+			(at 106.68 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5764,7 +5764,7 @@
 			)
 		)
 		(property "Value" "+12V"
-			(at 128.27 139.7 0)
+			(at 106.68 96.52 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5774,7 +5774,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 128.27 134.62 0)
+			(at 106.68 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5785,7 +5785,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 128.27 134.62 0)
+			(at 106.68 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5796,7 +5796,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 128.27 134.62 0)
+			(at 106.68 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5820,7 +5820,7 @@
 	)
 	(symbol
 		(lib_id "power:+12V")
-		(at 133.35 114.3 270)
+		(at 111.76 71.12 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5831,7 +5831,7 @@
 		(fields_autoplaced yes)
 		(uuid "afec3c7a-1d22-4d33-9aea-b79ff210993e")
 		(property "Reference" "#PWR02"
-			(at 129.54 114.3 0)
+			(at 107.95 71.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5842,7 +5842,7 @@
 			)
 		)
 		(property "Value" "+12V"
-			(at 137.16 114.2999 90)
+			(at 115.57 71.1199 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5853,7 +5853,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 133.35 114.3 0)
+			(at 111.76 71.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5864,7 +5864,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 133.35 114.3 0)
+			(at 111.76 71.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5875,7 +5875,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 133.35 114.3 0)
+			(at 111.76 71.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5899,7 +5899,7 @@
 	)
 	(symbol
 		(lib_id "power:+12V")
-		(at 201.93 119.38 0)
+		(at 232.41 135.89 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5910,7 +5910,7 @@
 		(fields_autoplaced yes)
 		(uuid "b3826510-5125-4033-9edf-bbb7cbc61a13")
 		(property "Reference" "#PWR017"
-			(at 201.93 123.19 0)
+			(at 232.41 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5921,7 +5921,7 @@
 			)
 		)
 		(property "Value" "+12V"
-			(at 201.93 114.3 0)
+			(at 232.41 130.81 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5931,7 +5931,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 201.93 119.38 0)
+			(at 232.41 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5942,7 +5942,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 201.93 119.38 0)
+			(at 232.41 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5953,7 +5953,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 201.93 119.38 0)
+			(at 232.41 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5977,7 +5977,7 @@
 	)
 	(symbol
 		(lib_id "VAMK_IC_SMD:UA741_SO8")
-		(at 110.49 83.82 0)
+		(at 88.9 40.64 0)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -5988,7 +5988,7 @@
 		(dnp no)
 		(uuid "bbc56675-4d51-4f1b-a9bf-f1c083e07adf")
 		(property "Reference" "U1"
-			(at 120.65 90.2402 0)
+			(at 99.06 47.0602 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5998,7 +5998,7 @@
 			)
 		)
 		(property "Value" "UA741"
-			(at 120.65 87.7002 0)
+			(at 99.06 44.5202 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6008,7 +6008,7 @@
 			)
 		)
 		(property "Footprint" "VAMK_IC_SMD:SO8IC"
-			(at 130.81 86.36 0)
+			(at 109.22 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6019,7 +6019,7 @@
 			)
 		)
 		(property "Datasheet" "\"\""
-			(at 130.81 83.82 0)
+			(at 109.22 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6030,7 +6030,7 @@
 			)
 		)
 		(property "Description" "Op-amp Single, general purporse"
-			(at 110.49 83.82 0)
+			(at 88.9 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6041,7 +6041,7 @@
 			)
 		)
 		(property "Order Number Farnell" "4163618"
-			(at 130.81 78.74 0)
+			(at 109.22 35.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6052,7 +6052,7 @@
 			)
 		)
 		(property "Blank Field" "none"
-			(at 130.81 76.2 0)
+			(at 109.22 33.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6063,7 +6063,7 @@
 			)
 		)
 		(property "Order Number Elfa" "73-301-45"
-			(at 130.81 73.66 0)
+			(at 109.22 30.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6108,7 +6108,7 @@
 	)
 	(symbol
 		(lib_id "VAMK_R_SMD:10R")
-		(at 149.86 88.9 0)
+		(at 128.27 45.72 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6119,7 +6119,7 @@
 		(fields_autoplaced yes)
 		(uuid "be9befaa-237b-443a-aea4-3345c7964740")
 		(property "Reference" "R2"
-			(at 149.86 85.09 0)
+			(at 128.27 41.91 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6129,7 +6129,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 149.86 91.44 0)
+			(at 128.27 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6140,7 +6140,7 @@
 			)
 		)
 		(property "Footprint" "VAMK_R_SMD:1206"
-			(at 149.86 93.98 0)
+			(at 128.27 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6151,7 +6151,7 @@
 			)
 		)
 		(property "Datasheet" "\"\""
-			(at 149.86 96.52 0)
+			(at 128.27 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6162,7 +6162,7 @@
 			)
 		)
 		(property "Description" "10R/5%/0.125W"
-			(at 149.86 88.9 0)
+			(at 128.27 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6173,7 +6173,7 @@
 			)
 		)
 		(property "Storing Location" "EC6,  SMD station"
-			(at 149.86 99.06 0)
+			(at 128.27 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6184,7 +6184,7 @@
 			)
 		)
 		(property "Tolerance" " +-5%"
-			(at 149.86 101.6 0)
+			(at 128.27 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6195,7 +6195,7 @@
 			)
 		)
 		(property "Order Number Elfa" "60-734-23"
-			(at 149.86 104.14 0)
+			(at 128.27 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6206,7 +6206,7 @@
 			)
 		)
 		(property "Order Number Farnell" "613460"
-			(at 149.86 104.14 0)
+			(at 128.27 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6217,7 +6217,7 @@
 			)
 		)
 		(property "Blank Field" "none"
-			(at 149.86 106.68 0)
+			(at 128.27 63.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6244,7 +6244,7 @@
 	)
 	(symbol
 		(lib_id "power:+12V")
-		(at 107.95 91.44 180)
+		(at 86.36 48.26 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6255,7 +6255,7 @@
 		(fields_autoplaced yes)
 		(uuid "c47eaa82-7313-4818-b242-9c2bab69966f")
 		(property "Reference" "#PWR01"
-			(at 107.95 87.63 0)
+			(at 86.36 44.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6266,7 +6266,7 @@
 			)
 		)
 		(property "Value" "+12V"
-			(at 107.95 96.52 0)
+			(at 86.36 53.34 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6276,7 +6276,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 107.95 91.44 0)
+			(at 86.36 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6287,7 +6287,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 107.95 91.44 0)
+			(at 86.36 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6298,7 +6298,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 107.95 91.44 0)
+			(at 86.36 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6322,7 +6322,7 @@
 	)
 	(symbol
 		(lib_id "VAMK_MISC:POTENTIO_M_1K_LIN")
-		(at 147.32 120.65 0)
+		(at 125.73 77.47 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6333,7 +6333,7 @@
 		(fields_autoplaced yes)
 		(uuid "c9378a9b-02a3-41ec-92f0-c692edb6a866")
 		(property "Reference" "POTENTIO_M/1K_LIN1"
-			(at 147.32 116.6167 0)
+			(at 125.73 73.4367 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6344,7 +6344,7 @@
 			)
 		)
 		(property "Value" "POTENTIO_M_1K_LIN"
-			(at 147.32 115.57 0)
+			(at 125.73 72.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6355,7 +6355,7 @@
 			)
 		)
 		(property "Footprint" "VAMK_MISC:POTENTIO_M"
-			(at 147.32 115.57 0)
+			(at 125.73 72.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6366,7 +6366,7 @@
 			)
 		)
 		(property "Datasheet" "\"\""
-			(at 147.32 125.73 0)
+			(at 125.73 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6377,7 +6377,7 @@
 			)
 		)
 		(property "Description" "Potentiometer, 1k linear mono"
-			(at 147.32 120.65 0)
+			(at 125.73 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6388,7 +6388,7 @@
 			)
 		)
 		(property "Storing Location" "4.2.1.2"
-			(at 147.32 128.27 0)
+			(at 125.73 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6399,7 +6399,7 @@
 			)
 		)
 		(property "Order Number Elfa" "64-258-13"
-			(at 147.32 130.81 0)
+			(at 125.73 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6410,7 +6410,7 @@
 			)
 		)
 		(property "Order Number Farnell" "445-2719"
-			(at 147.32 133.35 0)
+			(at 125.73 90.17 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6440,7 +6440,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 218.44 105.41 0)
+		(at 248.92 121.92 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6451,7 +6451,7 @@
 		(fields_autoplaced yes)
 		(uuid "c976b523-c9a6-44a5-9360-0f1354cdcdce")
 		(property "Reference" "#PWR024"
-			(at 218.44 111.76 0)
+			(at 248.92 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6462,7 +6462,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 218.44 110.49 0)
+			(at 248.92 127 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6472,7 +6472,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 218.44 105.41 0)
+			(at 248.92 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6483,7 +6483,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 218.44 105.41 0)
+			(at 248.92 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6494,7 +6494,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 218.44 105.41 0)
+			(at 248.92 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6518,7 +6518,7 @@
 	)
 	(symbol
 		(lib_id "power:+12V")
-		(at 226.06 119.38 0)
+		(at 256.54 135.89 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6529,7 +6529,7 @@
 		(fields_autoplaced yes)
 		(uuid "d95f568d-baa7-4d05-8096-4ebf18ae43a3")
 		(property "Reference" "#PWR018"
-			(at 226.06 123.19 0)
+			(at 256.54 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6540,7 +6540,7 @@
 			)
 		)
 		(property "Value" "+12V"
-			(at 226.06 114.3 0)
+			(at 256.54 130.81 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6550,7 +6550,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 226.06 119.38 0)
+			(at 256.54 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6561,7 +6561,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 226.06 119.38 0)
+			(at 256.54 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6572,7 +6572,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 226.06 119.38 0)
+			(at 256.54 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6596,7 +6596,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 240.03 105.41 0)
+		(at 270.51 121.92 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6607,7 +6607,7 @@
 		(fields_autoplaced yes)
 		(uuid "dc2e1733-1d7d-4577-99c4-81c5003786cd")
 		(property "Reference" "#FLG01"
-			(at 240.03 103.505 0)
+			(at 270.51 120.015 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6618,7 +6618,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 240.03 100.33 0)
+			(at 270.51 116.84 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6628,7 +6628,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 240.03 105.41 0)
+			(at 270.51 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6639,7 +6639,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 240.03 105.41 0)
+			(at 270.51 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6650,7 +6650,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 240.03 105.41 0)
+			(at 270.51 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6674,7 +6674,7 @@
 	)
 	(symbol
 		(lib_id "power:-12V")
-		(at 189.23 119.38 0)
+		(at 219.71 135.89 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6685,7 +6685,7 @@
 		(fields_autoplaced yes)
 		(uuid "e51769ae-01ea-447f-9967-e1d866f50ba5")
 		(property "Reference" "#PWR020"
-			(at 189.23 123.19 0)
+			(at 219.71 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6696,7 +6696,7 @@
 			)
 		)
 		(property "Value" "-12V"
-			(at 189.23 114.3 0)
+			(at 219.71 130.81 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6706,7 +6706,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 189.23 119.38 0)
+			(at 219.71 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6717,7 +6717,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 189.23 119.38 0)
+			(at 219.71 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6728,7 +6728,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"-12V\""
-			(at 189.23 119.38 0)
+			(at 219.71 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6752,7 +6752,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 236.22 132.08 0)
+		(at 266.7 148.59 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6763,7 +6763,7 @@
 		(fields_autoplaced yes)
 		(uuid "e5254c9d-b52b-4636-9d41-4795beac6690")
 		(property "Reference" "#PWR014"
-			(at 236.22 138.43 0)
+			(at 266.7 154.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6774,7 +6774,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 236.22 137.16 0)
+			(at 266.7 153.67 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6784,7 +6784,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 236.22 132.08 0)
+			(at 266.7 148.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6795,7 +6795,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 236.22 132.08 0)
+			(at 266.7 148.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6806,7 +6806,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 236.22 132.08 0)
+			(at 266.7 148.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6830,7 +6830,7 @@
 	)
 	(symbol
 		(lib_id "VAMK_R_SMD:1.2k")
-		(at 170.18 67.31 0)
+		(at 148.59 24.13 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6841,7 +6841,7 @@
 		(fields_autoplaced yes)
 		(uuid "edbaef75-16bb-4856-8b72-cbcc638746da")
 		(property "Reference" "R9"
-			(at 170.18 63.5 0)
+			(at 148.59 20.32 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6851,7 +6851,7 @@
 			)
 		)
 		(property "Value" "1.2k"
-			(at 170.18 69.85 0)
+			(at 148.59 26.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6862,7 +6862,7 @@
 			)
 		)
 		(property "Footprint" "VAMK_R_SMD:1206"
-			(at 170.18 72.39 0)
+			(at 148.59 29.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6873,7 +6873,7 @@
 			)
 		)
 		(property "Datasheet" "\"\""
-			(at 170.18 74.93 0)
+			(at 148.59 31.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6884,7 +6884,7 @@
 			)
 		)
 		(property "Description" "1.2K/5%/0.125W"
-			(at 170.18 67.31 0)
+			(at 148.59 24.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6895,7 +6895,7 @@
 			)
 		)
 		(property "Storing Location" "EC6,  SMD station"
-			(at 170.18 77.47 0)
+			(at 148.59 34.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6906,7 +6906,7 @@
 			)
 		)
 		(property "Tolerance" " +-5%"
-			(at 170.18 80.01 0)
+			(at 148.59 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6917,7 +6917,7 @@
 			)
 		)
 		(property "Order Number Farnell" "613710"
-			(at 170.18 82.55 0)
+			(at 148.59 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6928,7 +6928,7 @@
 			)
 		)
 		(property "Blank Field" "none"
-			(at 170.18 85.09 0)
+			(at 148.59 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6955,7 +6955,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 226.06 132.08 0)
+		(at 256.54 148.59 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6966,7 +6966,7 @@
 		(fields_autoplaced yes)
 		(uuid "f2c5b286-074a-4b79-a5a4-68528e59b9a0")
 		(property "Reference" "#PWR021"
-			(at 226.06 138.43 0)
+			(at 256.54 154.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6977,7 +6977,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 226.06 137.16 0)
+			(at 256.54 153.67 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6987,7 +6987,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 226.06 132.08 0)
+			(at 256.54 148.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6998,7 +6998,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 226.06 132.08 0)
+			(at 256.54 148.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7009,7 +7009,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 226.06 132.08 0)
+			(at 256.54 148.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7033,7 +7033,7 @@
 	)
 	(symbol
 		(lib_id "power:-12V")
-		(at 118.11 114.3 90)
+		(at 96.52 71.12 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7044,7 +7044,7 @@
 		(fields_autoplaced yes)
 		(uuid "f352686b-5369-4719-9524-0d5a874f9edd")
 		(property "Reference" "#PWR06"
-			(at 121.92 114.3 0)
+			(at 100.33 71.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7055,7 +7055,7 @@
 			)
 		)
 		(property "Value" "-12V"
-			(at 114.3 114.2999 90)
+			(at 92.71 71.1199 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7066,7 +7066,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 118.11 114.3 0)
+			(at 96.52 71.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7077,7 +7077,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 118.11 114.3 0)
+			(at 96.52 71.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7088,7 +7088,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"-12V\""
-			(at 118.11 114.3 0)
+			(at 96.52 71.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
