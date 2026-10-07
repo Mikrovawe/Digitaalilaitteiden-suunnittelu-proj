@@ -661,7 +661,7 @@
         "uuid": "9ffaf521-12e3-41e2-81f5-d387c769398e"
       }
     ],
-    "used_designators": "U1-3,#FLG1-3,R1-13,LM35CZ1,UA1,#PWR1-24,POTENTIO_M/1K_LIN1,C1-6",
+    "used_designators": "U1-4,R1-15,#FLG1-3,LM35CZ1,UA1,#PWR1-28,POTENTIO_M/1K_LIN1,C1-7,BC547_1,DCON9/FEMALE1,TM_BLOCK/2P1",
     "variants": []
   },
   "sheets": [
