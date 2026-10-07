@@ -488,7 +488,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "digitaalilaite.kicad_pro",
+    "filename": "signaalinlahetin.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -656,7 +656,7 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "digitaalilaite.kicad_sch",
+        "filename": "signaalinlahetin.kicad_sch",
         "name": "Root",
         "uuid": "9ffaf521-12e3-41e2-81f5-d387c769398e"
       }

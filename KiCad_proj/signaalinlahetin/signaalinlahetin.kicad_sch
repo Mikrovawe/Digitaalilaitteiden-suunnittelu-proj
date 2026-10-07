@@ -3995,7 +3995,7 @@
 			(uuid "8135c56b-207b-40f8-926e-30701fdec6c1")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "C4")
 					(unit 1)
@@ -4120,7 +4120,7 @@
 			(uuid "8e189f70-f4fc-483f-8b59-99d86f50ebb7")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "R6")
 					(unit 1)
@@ -4198,7 +4198,7 @@
 			(uuid "95b366aa-1413-4df8-b5bf-590cde7ef47d")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "#PWR027")
 					(unit 1)
@@ -4323,7 +4323,7 @@
 			(uuid "ee6fdd13-1855-4830-be19-b56974521e3d")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "C3")
 					(unit 1)
@@ -4401,7 +4401,7 @@
 			(uuid "670b7dc1-eeac-4549-bbd0-b58b86bafa8c")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "#PWR030")
 					(unit 1)
@@ -4526,7 +4526,7 @@
 			(uuid "e96e40aa-3014-4dfa-a77e-77186a373ddb")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "R14")
 					(unit 1)
@@ -4657,7 +4657,7 @@
 			(uuid "8c5bfda2-98c2-41c9-8850-66ae38f17968")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "U4")
 					(unit 1)
@@ -4782,7 +4782,7 @@
 			(uuid "8a08b8b9-29fb-4464-aa59-620cf83b4645")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "R10")
 					(unit 1)
@@ -4908,7 +4908,7 @@
 			(uuid "3936fde5-d1ea-4b73-b90a-8fe1169d63ea")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "R15")
 					(unit 1)
@@ -4986,7 +4986,7 @@
 			(uuid "b91dcd3e-1bff-4242-8123-8d7a4715597f")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "#FLG03")
 					(unit 1)
@@ -5111,7 +5111,7 @@
 			(uuid "4484b195-53c3-4d5e-870f-8bb39b8c2e8e")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "R13")
 					(unit 1)
@@ -5189,7 +5189,7 @@
 			(uuid "4df65168-6fe3-484d-b088-f3367772ea58")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "#PWR016")
 					(unit 1)
@@ -5304,7 +5304,7 @@
 			(uuid "36bedd9b-3c85-4ed9-9450-68676ca38c37")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "TM_BLOCK/2P1")
 					(unit 1)
@@ -5429,7 +5429,7 @@
 			(uuid "2ee5b6da-7289-4fc2-868a-f1aa07c1f320")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "C6")
 					(unit 1)
@@ -5507,7 +5507,7 @@
 			(uuid "fa0cf381-74cc-4609-b54e-245c6a9096f9")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "#PWR025")
 					(unit 1)
@@ -5585,7 +5585,7 @@
 			(uuid "1e77f709-998a-4b7d-8eca-ef80e2867a63")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "#PWR019")
 					(unit 1)
@@ -5663,7 +5663,7 @@
 			(uuid "23030603-8901-43b2-9b39-c72a9a453108")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "#PWR08")
 					(unit 1)
@@ -5741,7 +5741,7 @@
 			(uuid "038001f2-959c-41f9-90c2-9b0cd9ab747e")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "#FLG02")
 					(unit 1)
@@ -5819,7 +5819,7 @@
 			(uuid "1fa5438a-547b-493b-b337-f2f5956bc423")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "#PWR031")
 					(unit 1)
@@ -5952,7 +5952,7 @@
 			(uuid "d0620ced-c36b-408b-875b-c53d1e3b2a4b")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "U3")
 					(unit 1)
@@ -6048,7 +6048,7 @@
 			(uuid "652a0898-7fdb-49f1-b493-d51811d66268")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "LM35CZ1")
 					(unit 1)
@@ -6126,7 +6126,7 @@
 			(uuid "dc9313d7-6f08-4633-8bd0-ee90a2033e01")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "#PWR012")
 					(unit 1)
@@ -6262,7 +6262,7 @@
 			(uuid "da62b925-3f6a-412c-89eb-4625508cc6dd")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "R1")
 					(unit 1)
@@ -6387,7 +6387,7 @@
 			(uuid "ab9be4ee-aeae-4d9f-9553-4e7ad520ae7a")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "R11")
 					(unit 1)
@@ -6465,7 +6465,7 @@
 			(uuid "da2d3db8-3e56-4e4c-9db7-3c0692935c60")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "#PWR09")
 					(unit 1)
@@ -6590,7 +6590,7 @@
 			(uuid "e70dc0e2-73e2-4a30-971a-10fcded829a5")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "R12")
 					(unit 1)
@@ -6668,7 +6668,7 @@
 			(uuid "7f92817e-976b-4627-8663-dff30818f30d")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "#PWR010")
 					(unit 1)
@@ -6746,7 +6746,7 @@
 			(uuid "a7d6327d-4bf7-4750-9fa9-3c182a463642")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "#PWR013")
 					(unit 1)
@@ -6871,7 +6871,7 @@
 			(uuid "b85c7a43-1353-46f3-b8b3-6f5129b9862b")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "C8")
 					(unit 1)
@@ -6996,7 +6996,7 @@
 			(uuid "f80b21d5-cb0f-404f-952c-ab5ba92de5ce")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "R3")
 					(unit 1)
@@ -7121,7 +7121,7 @@
 			(uuid "302664f5-a48b-4b19-8539-2fb9b7ce4ad7")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "C1")
 					(unit 1)
@@ -7247,7 +7247,7 @@
 			(uuid "0ff81da9-ff1d-43b5-ab1f-33dd2ba0e2ae")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "R4")
 					(unit 1)
@@ -7372,7 +7372,7 @@
 			(uuid "1b65c266-6083-44d1-ba3b-970455be563e")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "R8")
 					(unit 1)
@@ -7497,7 +7497,7 @@
 			(uuid "c5a25884-df9e-44e6-b41f-876afecfe324")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "C5")
 					(unit 1)
@@ -7575,7 +7575,7 @@
 			(uuid "e868e53b-7f18-4205-86ca-d6d71a78e360")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "#PWR05")
 					(unit 1)
@@ -7706,7 +7706,7 @@
 			(uuid "bc11bfd1-1990-4ebf-a9fd-15a5cf42f2a8")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "U2")
 					(unit 1)
@@ -7784,7 +7784,7 @@
 			(uuid "1cc3e298-ef26-4ded-bacc-c30ae792bc74")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "#PWR032")
 					(unit 1)
@@ -7862,7 +7862,7 @@
 			(uuid "4c5a9868-0c4c-4a27-ac98-29820315d584")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "#PWR022")
 					(unit 1)
@@ -7987,7 +7987,7 @@
 			(uuid "114f8aa5-2a99-4632-8726-cf5536e557f8")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "C2")
 					(unit 1)
@@ -8112,7 +8112,7 @@
 			(uuid "e521db08-6c62-4bfd-b37b-61aea37cfd34")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "C7")
 					(unit 1)
@@ -8249,7 +8249,7 @@
 			(uuid "f6680bce-3911-4d5d-9131-2e324b079493")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "R7")
 					(unit 1)
@@ -8327,7 +8327,7 @@
 			(uuid "bdb066d7-911e-4769-96a9-35b9417c1bb4")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "#PWR011")
 					(unit 1)
@@ -8405,7 +8405,7 @@
 			(uuid "ff6256ab-2a98-44e6-9edb-4deb42b1d37a")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "#PWR04")
 					(unit 1)
@@ -8483,7 +8483,7 @@
 			(uuid "02e5cf0b-550a-4c5d-b122-608d899ab6f5")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "#PWR023")
 					(unit 1)
@@ -8561,7 +8561,7 @@
 			(uuid "88347c67-56ef-430b-bc84-36a26c292dee")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "#PWR015")
 					(unit 1)
@@ -8639,7 +8639,7 @@
 			(uuid "658e5547-c5f8-452c-9f05-0abbf71f2c18")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "#PWR03")
 					(unit 1)
@@ -8717,7 +8717,7 @@
 			(uuid "34c7253d-b0aa-44c0-bc18-56565f87dec6")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "#PWR07")
 					(unit 1)
@@ -8796,7 +8796,7 @@
 			(uuid "7dd31742-c920-4f57-9e94-88e198986c63")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "#PWR02")
 					(unit 1)
@@ -8874,7 +8874,7 @@
 			(uuid "42b14360-aa6e-49e8-b500-90eb82d6ae32")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "#PWR017")
 					(unit 1)
@@ -9005,7 +9005,7 @@
 			(uuid "b4741c9f-49e3-453c-91b4-622bb30a24f6")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "U1")
 					(unit 1)
@@ -9083,7 +9083,7 @@
 			(uuid "e86a5807-ba85-4840-9e12-a4b456991c5b")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "#PWR029")
 					(unit 1)
@@ -9219,7 +9219,7 @@
 			(uuid "0525111e-fc94-4582-a459-1787bffeb71d")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "R2")
 					(unit 1)
@@ -9297,7 +9297,7 @@
 			(uuid "e0b02047-d4e0-496b-bf3b-9b6e01817934")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "#PWR01")
 					(unit 1)
@@ -9375,7 +9375,7 @@
 			(uuid "fe6eae19-bf86-422c-82db-5b679c914583")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "#PWR026")
 					(unit 1)
@@ -9493,7 +9493,7 @@
 			(uuid "6e5291e6-ab38-4008-9b0d-deb99540288c")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "POTENTIO_M/1K_LIN1")
 					(unit 1)
@@ -9571,7 +9571,7 @@
 			(uuid "b959f100-becb-4c90-a507-f23cc180a31c")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "#PWR024")
 					(unit 1)
@@ -9649,7 +9649,7 @@
 			(uuid "24a4f5c9-e56b-412c-add1-f92960caa6c3")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "#PWR018")
 					(unit 1)
@@ -9727,7 +9727,7 @@
 			(uuid "f9b4456f-a8c6-4efe-96cc-dfb2002169b2")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "#FLG01")
 					(unit 1)
@@ -9852,7 +9852,7 @@
 			(uuid "aad1d247-9e6d-431e-9e8a-2194e8677d9a")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "C9")
 					(unit 1)
@@ -9930,7 +9930,7 @@
 			(uuid "be64b7c9-0383-4587-9b2e-73c00cb5cd6b")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "#PWR020")
 					(unit 1)
@@ -10008,7 +10008,7 @@
 			(uuid "924e32de-d6a6-4431-a9b3-8b41abc76999")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "#PWR014")
 					(unit 1)
@@ -10133,7 +10133,7 @@
 			(uuid "f15f75b5-4441-40fc-85c0-ed635e0cf26e")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "R9")
 					(unit 1)
@@ -10211,7 +10211,7 @@
 			(uuid "ccb832a5-b182-4f7f-aa77-9bab58df4df9")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "#PWR021")
 					(unit 1)
@@ -10290,7 +10290,7 @@
 			(uuid "094a05b5-bb3a-4ffc-a55c-ed172eb04f5f")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "#PWR06")
 					(unit 1)
@@ -10419,7 +10419,7 @@
 			(uuid "510f963e-9cf0-46a5-a47d-450e94c6e957")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "BC547_1")
 					(unit 1)
@@ -10497,7 +10497,7 @@
 			(uuid "16bccaea-7b53-4403-a8b6-4ac9e4580af9")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "#PWR028")
 					(unit 1)
@@ -10622,7 +10622,7 @@
 			(uuid "ec9540ae-b648-455a-ba29-3f869ff5e933")
 		)
 		(instances
-			(project "digitaalilaite"
+			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "R5")
 					(unit 1)
