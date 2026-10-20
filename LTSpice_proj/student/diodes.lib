@@ -1,0 +1,6 @@
+.MODEL 1N4007 D(IS=2.55E-9 RS=0.042 N=1.75 TT=5.76E-6 CJO=1.85E-11 VJ=0.75 M=0.333 BV=1000 IBV=9.86E-5 Iave=1000m Vpk=1000 mfg=GP1000V1A type=silicon )
+
+.model 1N4751A D(Is=5.721f N=1.107 Rs=199.9m Ikf=4.375 Cjo=13.45p M=300.2m Vj=542.4m Isr=1.73p Nr=4 Bv=20 Ibv=5m tt=182n Nbv=400m Tbv1=790u Ibvl=2p Nbvl=80  Vpk=20 mfg=Rohm type=Zener)
+
+
+
