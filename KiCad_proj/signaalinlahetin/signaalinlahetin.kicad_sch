@@ -3442,6 +3442,16 @@
 		)
 		(uuid "b589b48c-b62c-497b-bf2a-9f1b5032d969")
 	)
+	(text "256"
+		(exclude_from_sim no)
+		(at 106.426 101.092 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "7b527a81-e7de-440b-85fd-e285c26274ee")
+	)
 	(junction
 		(at 82.55 67.31)
 		(diameter 0)
@@ -3670,7 +3680,7 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 69.85) (xy 63.5 69.85)
+			(xy 45.72 69.85) (xy 63.5 69.85)
 		)
 		(stroke
 			(width 0)
@@ -6010,7 +6020,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 30.48 77.47 0)
+		(at 35.56 77.47 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6021,7 +6031,7 @@
 		(fields_autoplaced yes)
 		(uuid "4816c086-5f0a-40e7-824e-42137acca11d")
 		(property "Reference" "#PWR08"
-			(at 30.48 83.82 0)
+			(at 35.56 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6032,7 +6042,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 30.48 82.55 0)
+			(at 35.56 82.55 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6042,7 +6052,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 30.48 77.47 0)
+			(at 35.56 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6053,7 +6063,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 30.48 77.47 0)
+			(at 35.56 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6064,7 +6074,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 30.48 77.47 0)
+			(at 35.56 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6377,7 +6387,7 @@
 	)
 	(symbol
 		(lib_id "VAMK_IC:LM35CZ_TO92")
-		(at 30.48 69.85 0)
+		(at 35.56 69.85 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6388,7 +6398,7 @@
 		(fields_autoplaced yes)
 		(uuid "4d6cf113-6133-4305-ab1f-29d5ab10cfc7")
 		(property "Reference" "LM35CZ1"
-			(at 21.59 69.8499 0)
+			(at 26.67 69.8499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6399,7 +6409,7 @@
 			)
 		)
 		(property "Value" "LM35CZ_TO92"
-			(at 50.8 67.31 0)
+			(at 55.88 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6410,7 +6420,7 @@
 			)
 		)
 		(property "Footprint" "VAMK_IC:TO-92"
-			(at 50.8 69.85 0)
+			(at 55.88 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6421,7 +6431,7 @@
 			)
 		)
 		(property "Datasheet" "\"\""
-			(at 50.8 72.39 0)
+			(at 55.88 72.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6432,7 +6442,7 @@
 			)
 		)
 		(property "Description" "Analog Thermometer (-40°C to +110°C)"
-			(at 30.48 69.85 0)
+			(at 35.56 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6443,7 +6453,7 @@
 			)
 		)
 		(property "Order Number Elfa" "73-088-10"
-			(at 50.8 74.93 0)
+			(at 55.88 74.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9064,7 +9074,7 @@
 	)
 	(symbol
 		(lib_id "power:+12V")
-		(at 30.48 62.23 0)
+		(at 35.56 62.23 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9075,7 +9085,7 @@
 		(fields_autoplaced yes)
 		(uuid "a940e43d-e188-40bb-9e5a-0e31c9fb78c5")
 		(property "Reference" "#PWR036"
-			(at 30.48 66.04 0)
+			(at 35.56 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9086,7 +9096,7 @@
 			)
 		)
 		(property "Value" "+12V"
-			(at 30.48 57.15 0)
+			(at 35.56 57.15 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9096,7 +9106,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 30.48 62.23 0)
+			(at 35.56 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9107,7 +9117,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 30.48 62.23 0)
+			(at 35.56 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9118,7 +9128,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 30.48 62.23 0)
+			(at 35.56 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

@@ -140,7 +140,7 @@
       },
       "rules": {
         "max_error": 0.005,
-        "min_clearance": 0.0,
+        "min_clearance": 0.25,
         "min_connection": 0.0,
         "min_copper_edge_clearance": 0.5,
         "min_groove_width": 0.0,
@@ -153,7 +153,7 @@
         "min_text_height": 0.8,
         "min_text_thickness": 0.08,
         "min_through_hole_diameter": 0.3,
-        "min_track_width": 0.2,
+        "min_track_width": 0.25,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.5,
         "solder_mask_to_copper_clearance": 0.0,
@@ -661,7 +661,7 @@
         "uuid": "9ffaf521-12e3-41e2-81f5-d387c769398e"
       }
     ],
-    "used_designators": "U1-4,R1-15,#FLG1-6,#PWR1-36,UA1,LM35CZ1,POTENTIO_M/1K_LIN1,C1-10,BC547_1,DCON9/FEMALE1,TM_BLOCK/2P1,TM_BLOCK/3P1",
+    "used_designators": "U1-4,R1-15,#FLG1-6,LM35CZ1,UA1,#PWR1-36,POTENTIO_M/1K_LIN1,C1-10,BC547_1,DCON9/FEMALE1,TM_BLOCK/2P1,TM_BLOCK/3P1",
     "variants": []
   },
   "sheets": [
