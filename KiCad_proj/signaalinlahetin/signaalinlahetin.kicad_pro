@@ -70,7 +70,16 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "clearance|18938000|80406000|99a00a2b-9d9e-4963-b8b7-87569db4a7fd|f2bcb1cf-15fd-4fad-8ead-50d733fb157b",
+          ""
+        ],
+        [
+          "clearance|61834000|77582000|5f49c67e-6e08-4888-a31f-7bc1e70348a9|c4b3d3e9-3445-43b2-a7fb-69737469a4e4",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -661,7 +670,7 @@
         "uuid": "9ffaf521-12e3-41e2-81f5-d387c769398e"
       }
     ],
-    "used_designators": "U1-4,R1-15,#FLG1-6,LM35CZ1,UA1,#PWR1-36,POTENTIO_M/1K_LIN1,C1-10,BC547_1,DCON9/FEMALE1,TM_BLOCK/2P1,TM_BLOCK/3P1,J14-17,J19-22",
+    "used_designators": "U1-4,R1-15,#FLG1-6,LM35CZ1,UA1,#PWR1-36,POTENTIO_M/1K_LIN1,C1-10,BC547_1,DCON9/FEMALE1,TM_BLOCK/2P1,TM_BLOCK/3P1,J14-17,J19-22,TRIMMER/1K1",
     "variants": []
   },
   "sheets": [

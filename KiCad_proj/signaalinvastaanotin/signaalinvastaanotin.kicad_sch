@@ -4628,7 +4628,7 @@
 		(dnp no)
 		(uuid "c1330f81-cf88-4f63-bb9a-7ced348edb57")
 		(property "Reference" "U1"
-			(at 121.92 67.3802 0)
+			(at 117.602 66.802 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4638,7 +4638,7 @@
 			)
 		)
 		(property "Value" "LM741"
-			(at 121.92 64.8402 0)
+			(at 117.602 64.262 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects

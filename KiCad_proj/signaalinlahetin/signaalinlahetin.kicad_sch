@@ -1600,7 +1600,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "VAMK_MISC:POTENTIO_M_1K_LIN"
+		(symbol "VAMK_MISC:TRIMMER_1K"
 			(pin_names
 				(offset 0)
 				(hide yes)
@@ -1610,7 +1610,7 @@
 			(on_board yes)
 			(in_pos_files yes)
 			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "POTENTIO_M/1K_LIN"
+			(property "Reference" "TRIMMER/1K"
 				(at 0 7.62 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1620,7 +1620,7 @@
 					)
 				)
 			)
-			(property "Value" "POTENTIO_M_1K_LIN"
+			(property "Value" "TRIMMER_1K"
 				(at 0 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1631,8 +1631,8 @@
 					)
 				)
 			)
-			(property "Footprint" "VAMK_MISC:POTENTIO_M"
-				(at 0 5.08 0)
+			(property "Footprint" "VAMK_MISC:TRIMMER"
+				(at 0 2.54 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -1643,28 +1643,6 @@
 				)
 			)
 			(property "Datasheet" "\"\""
-				(at 0 -5.08 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-				)
-			)
-			(property "Description" "Potentiometer, 1k linear mono"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Storing Location" "4.2.1.2"
 				(at 0 -7.62 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1675,29 +1653,7 @@
 					)
 				)
 			)
-			(property "Order Number Elfa" "64-258-13"
-				(at 0 -10.16 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-				)
-			)
-			(property "Order Number Farnell" "445-2719"
-				(at 0 -12.7 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-				)
-			)
-			(property "ki_keywords" "POTENTIO_M"
+			(property "Description" "Trimmer, 1k"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1708,13 +1664,96 @@
 					)
 				)
 			)
-			(symbol "POTENTIO_M_1K_LIN_0_1"
+			(property "Storing Location" "4.3.1.1"
+				(at 0 -10.16 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Order Number Farnell" "9607811"
+				(at 0 -12.7 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "ki_keywords" "TRIMMER"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "TRIMMER_1K_0_1"
+				(polyline
+					(pts
+						(xy 0 -1.27) (xy -0.889 -0.889) (xy -0.127 -1.27)
+					)
+					(stroke
+						(width 0.3048)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "TRIMMER_1K_1_1"
 				(polyline
 					(pts
 						(xy -6.985 0) (xy -5.08 0)
 					)
 					(stroke
 						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -5.969 1.651) (xy -6.477 0.762)
+					)
+					(stroke
+						(width 0.3048)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -5.969 1.651) (xy -5.461 2.54)
+					)
+					(stroke
+						(width 0.3048)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -5.969 1.651) (xy -0.889 -0.889)
+					)
+					(stroke
+						(width 0.3048)
 						(type solid)
 					)
 					(fill
@@ -1746,18 +1785,6 @@
 				)
 				(polyline
 					(pts
-						(xy 0 -1.27) (xy -0.635 -1.905) (xy 0 -1.27) (xy 0.635 -1.905)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
 						(xy 5.08 0) (xy 6.985 0)
 					)
 					(stroke
@@ -1768,8 +1795,6 @@
 						(type none)
 					)
 				)
-			)
-			(symbol "POTENTIO_M_1K_LIN_1_1"
 				(pin passive line
 					(at -9.525 0 0)
 					(length 2.54)
@@ -3606,22 +3631,10 @@
 		(uuid "3d402839-f04e-4992-9416-7fa3fb685c2e")
 	)
 	(junction
-		(at 117.475 104.14)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4c8f17ae-d10b-4faa-af86-ef18b0d0c992")
-	)
-	(junction
 		(at 88.9 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4dbba4eb-45aa-476f-8691-52afa51ef876")
-	)
-	(junction
-		(at 98.425 104.14)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "50dd2d5e-a127-41b7-82d7-de50b33f27f8")
 	)
 	(junction
 		(at 162.56 69.85)
@@ -3646,6 +3659,18 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "908a4694-f577-4170-9aba-85c8097ac8bb")
+	)
+	(junction
+		(at 117.475 104.14)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bbe45dfa-b2d5-4729-9d62-dea03e86706a")
+	)
+	(junction
+		(at 98.425 104.14)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bd5dfa40-13f5-462d-863d-a22e6b5ee854")
 	)
 	(junction
 		(at 162.56 48.26)
@@ -4055,6 +4080,16 @@
 	)
 	(wire
 		(pts
+			(xy 117.475 104.14) (xy 118.11 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9b11e087-38ce-45ef-9bd2-57402012ce1e")
+	)
+	(wire
+		(pts
 			(xy 149.86 40.64) (xy 149.86 44.45)
 		)
 		(stroke
@@ -4082,16 +4117,6 @@
 			(type default)
 		)
 		(uuid "ad299013-a9cc-4126-bfe1-835b5128f7ca")
-	)
-	(wire
-		(pts
-			(xy 117.475 104.14) (xy 118.11 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ad451afd-595c-4971-ad7d-85b41a62e556")
 	)
 	(wire
 		(pts
@@ -7406,6 +7431,112 @@
 		)
 	)
 	(symbol
+		(lib_id "VAMK_MISC:TRIMMER_1K")
+		(at 107.95 104.14 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5775a77a-22b6-483b-ba6a-2b46a86159a6")
+		(property "Reference" "TRIMMER/1K1"
+			(at 107.95 99.06 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "TRIMMER_1K"
+			(at 107.95 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "VAMK_MISC:TRIMMER"
+			(at 107.95 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Datasheet" "\"\""
+			(at 107.95 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Description" "Trimmer, 1k"
+			(at 107.95 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Storing Location" "4.3.1.1"
+			(at 107.95 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Order Number Farnell" "9607811"
+			(at 107.95 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "8bb075d2-9b63-4900-829c-591b55cb63ac")
+		)
+		(pin "3"
+			(uuid "dc787fa3-c7b2-4fbb-a1a4-1c9d920103b5")
+		)
+		(pin "2"
+			(uuid "e6eae22a-8756-4406-ae5e-dadbf170b984")
+		)
+		(instances
+			(project "signaalinlahetin"
+				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
+					(reference "TRIMMER/1K1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 228.6 151.13 0)
 		(unit 1)
@@ -10342,124 +10473,6 @@
 			(project "signaalinlahetin"
 				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
 					(reference "#PWR026")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "VAMK_MISC:POTENTIO_M_1K_LIN")
-		(at 107.95 104.14 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c9378a9b-02a3-41ec-92f0-c692edb6a866")
-		(property "Reference" "POTENTIO_M/1K_LIN1"
-			(at 107.95 100.1067 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Value" "POTENTIO_M_1K_LIN"
-			(at 107.95 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Footprint" "VAMK_MISC:POTENTIO_M"
-			(at 107.95 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Datasheet" "\"\""
-			(at 107.95 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Description" "Potentiometer, 1k linear mono"
-			(at 107.95 104.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Storing Location" "4.2.1.2"
-			(at 107.95 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Order Number Elfa" "64-258-13"
-			(at 107.95 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Order Number Farnell" "445-2719"
-			(at 107.95 116.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "9c228515-5257-40da-a94a-7cbef2084e58")
-		)
-		(pin "1"
-			(uuid "d55d8250-b917-4a3e-be94-ba4bfa93f62d")
-		)
-		(pin "3"
-			(uuid "6e5291e6-ab38-4008-9b0d-deb99540288c")
-		)
-		(instances
-			(project "signaalinlahetin"
-				(path "/9ffaf521-12e3-41e2-81f5-d387c769398e"
-					(reference "POTENTIO_M/1K_LIN1")
 					(unit 1)
 				)
 			)
